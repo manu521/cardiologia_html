@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Defrologia - Orientações</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bd1">
+
+    <!-- Navegação -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <img class="logo" src="img/Mundopet.png.png" alt="Logo">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Início</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Sobre Nós
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                            <li><a class="dropdown-item" href="#">Nossa Equipe</a></li>
+                            <li><a class="dropdown-item" href="#">Nossa Clínica</a></li>
+                            <li><a class="dropdown-item" href="#">Nosso Objetivo</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Especialidades
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                            <li><a class="dropdown-item" href="#">Nefrologia</a></li>
+                            <li><a class="dropdown-item" href="#">Fisioterapia</a></li>
+                            <li><a class="dropdown-item" href="#">Oftalmologia</a></li>
+                            <li><a class="dropdown-item" href="#">Odontologia</a></li>
+                            <li><a class="dropdown-item" href="#">Ortopedia</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Serviços
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                            <li><a class="dropdown-item" href="#">Cirurgia Geral</a></li>
+                            <li><a class="dropdown-item" href="#">Consultas</a></li>
+                            <li><a class="dropdown-item" href="#">Internação</a></li>
+                            <li><a class="dropdown-item" href="#">Quimioterapia</a></li>
+                            <li><a class="dropdown-item" href="#">Vacinação</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Exames
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                            <li><a class="dropdown-item" href="#">Coleta de Urina</a></li>
+                            <li><a class="dropdown-item" href="#">Endoscopia</a></li>
+                            <li><a class="dropdown-item" href="#">Exame de Fezes</a></li>
+                            <li><a class="dropdown-item" href="#">Sorologias</a></li>
+                            <li><a class="dropdown-item" href="#">Testes Rápidos</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contato</a>
+                    </li>
+                </ul>
+                <div class="top-bar">
+                    <button class="top-bar-button">Contato de urgência</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Coleta de Urina</h1>
+    </div>
+
+    <!-- Container com conteúdo e formulário -->
+    <div class="container">
+        <div class="content">
+            <h2>Como deve ser realizado o procedimento de Cardiologia?</h2>
+            <p>O diagnóstico de problemas cardíacos em animais geralmente começa com uma avaliação clínica detalhada. O veterinário observa sinais clínicos, como tosse persistente, dificuldade para respirar, cansaço excessivo, e inchaço no abdômen ou nas patas. Além disso, os seguintes procedimentos podem ser recomendados:</li>
+            <ul>
+               <li> Exame físico: O veterinário irá auscultar o coração e os pulmões do pet com um estetoscópio para detectar anormalidades no ritmo cardíaco, como sopros cardíacos, e outros sinais de problemas.</li>
+                
+               <li>Exames de sangue e urina: Para verificar a função do coração e de outros órgãos, além de identificar possíveis sinais de insuficiência cardíaca ou outras condições associadas.</li>
+                
+                <li> Radiografia (Raio-X): Pode ser realizada para observar o tamanho do coração e a presença de fluidos nos pulmões, que podem indicar insuficiência cardíaca.</li>
+                
+                    <li>Eletrocardiograma (ECG): Para analisar a atividade elétrica do coração e detectar arritmias (batimentos cardíacos irregulares).</li>
+                
+                        <li>Ecocardiograma (ultrassom do coração): Esse exame de imagem permite observar o funcionamento do coração, suas válvulas e os fluxos sanguíneos. É fundamental para avaliar doenças cardíacas como insuficiência cardíaca congestiva e cardiopatias.</li>
+                
+                            <li>Pressão arterial: Medir a pressão arterial do pet também pode ajudar a diagnosticar condições que afetam o sistema circulatório, como hipertensão.</li></p>
+            </ul>
+            <h2>Principais causas de problemas de Cardiologia em pets</h2>
+            <ul>
+                <li>Doença cardíaca degenerativa.</li>
+                <li>Cardiomiopatia dilatada (CMD).</li>
+                <li>Doença cardíaca congênita.</li>
+                <li>Arritmias cardíacas.</li>
+                <li>Hipertensão.</li>
+                <li>Infecções e inflamações.</li>
+            </ul>
+
+            <h2>Por que meu pet deve fazer um exame de Cardiologia?</h2>
+            <p>Existem várias razões para realizar exames cardiológicos em seu pet, entre as principais:</p>
+            <ul>
+                <li>Sinais clínicos de problemas cardíacos.</li>
+                <li>Prevenção e diagnóstico precoce.</li>
+                <li>Monitoramento de doenças crônicas.</li>
+                <li>Aumento da qualidade de vida.</li>
+            </ul>
+        </div>
+
+        <div class="form-container">
+            <h2>Agende uma consulta</h2>
+            <form>
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="pet-name">Nome do Pet:</label>
+                <input type="text" id="pet-name" name="pet-name" required>
+
+                <label for="pet-age">Idade do Pet:</label>
+                <input type="number" id="pet-age" name="pet-age" required>
+
+                <label for="pet-species">Espécie do Pet:</label>
+                <select id="pet-species" name="pet-species" required>
+                    <option value="">Selecione</option>
+                    <option value="cachorro">Cachorro</option>
+                    <option value="gato">Gato</option>
+                    <option value="outro">Outro</option>
+                </select>
+
+                <label for="message">Mensagem ou Observações:</label>
+                <textarea id="message" name="message" rows="4"></textarea>
+
+                <button type="submit">Agendar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Perguntas Frequentes -->
+    <div class="faq">
+        <h2>Perguntas Frequentes</h2>
+        <div class="accordion" id="faqAccordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        1. Porque meu pet precisa fazer exame de cardiologia?
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Exames de cardiologia ajudam a detectar precocemente problemas no coração do seu pet, melhorando o tratamento e a qualidade de vida, especialmente em animais mais velhos ou com sintomas como tosse e dificuldade para respirar.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        2. Quando meu pet deve fazer um exame de cardiologia?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Seu pet deve fazer um exame de cardiologia se apresentar sinais como tosse persistente, dificuldade para respirar, cansaço excessivo, desmaios ou inchaço abdominal. Também é recomendado em pets mais velhos ou em raças predispostas a problemas cardíacos, mesmo sem sintomas.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        3. Quais exames são realizados para avaliar a saúde cardíaca do meu pet?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Os exames mais comuns são o ecocardiograma (ultrassom do coração), o eletrocardiograma (ECG), exames de raio-X para verificar o tamanho do coração, e a auscultação cardíaca (escuta do coração com um estetoscópio) para identificar sopros ou arritmias.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    4. Como sei se meu pet está com doença cardíaca?
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Sintomas como tosse, dificuldade para respirar, letargia, cansaço rápido, perda de apetite, e inchaço abdominal podem indicar problemas no coração. É importante levar o pet ao veterinário para avaliação.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        5. A cardiologia pode prevenir problemas no coração do meu pet?
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Sim. Exames regulares podem detectar doenças cardíacas precocemente, permitindo tratamento antes que a condição se agrave, o que pode melhorar a qualidade de vida e até prolongar a vida do pet.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-container">
+        <footer class="footer">
+            <div class="footer-left">
+                <div class="footer-content">
+                    <h3>Clínica Veterinária Mundo Pet</h3>
+                    <p>© 2025 - Todos os direitos reservados</p>
+                </div>
+                <div class="social-media">
+                    <p>Siga-nos nas redes sociais:</p>
+                    <a href="https://facebook.com" target="_blank" class="social-icon">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook">
+                    </a>
+                    <a href="https://instagram.com" target="_blank" class="social-icon">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
+                    </a>
+                <div class="whatsapp-contact">
+                    <a href="https://wa.me/5511999999999" target="_blank" class="whatsapp-button">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="whatsapp-icon">
+                        Fale conosco no WhatsApp
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    background: url('IMG/Banner.jpg') no-repeat center center/cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Ajuste a opacidade e cor aqui */
+    z-index: 1;
+}
+
+.hero h1 {
+    position: relative;
+    z-index: 2;
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background: rgb(8, 115, 117);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+/* Container */
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 20px;
+}
+
+.content {
+    flex: 2;
+}
+
+.form-container {
+    flex: 1;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Tipografia */
+h1, h2 {
+    color: rgb(8, 115, 117);
+}
+
+/* Listas */
+ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+/* Formulários */
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, textarea, select, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Botões */
+button {
+    background-color: rgb(8, 115, 117);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(8, 115, 117);
+}
+
+/* Navbar */
+.navbar {
+    background-color: #fdfdfd !important; /* Verde profissional */
+    font-family: 'Roboto', sans-serif;
+    margin-left: 15%;
+}
+
+/* Estilos de hover para os itens do menu */
+.navbar-nav .nav-link {
+    color: #087375 !important;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #087375 !important; /* Cor suave para o hover */
+    text-decoration: underline;
+}
+
+/* Estilos para o dropdown */
+.navbar-nav .dropdown-menu {
+    background-color: #087375 !important; /* Verde suave para o menu suspenso */
+    border-radius: 8px;
+}
+
+.navbar-nav .dropdown-item:hover {
+    background-color: #087375; /* Cor mais escura para o hover do item */
+    color: #087375; /* Texto branco */
+}
+
+/* Toggler */
+.navbar-toggler-icon {
+    background-color: #087375; /* Verde um pouco mais claro para o ícone de alternância */
+}
+
+/* Ajuste responsivo */
+@media (max-width: 992px) {
+    .navbar-nav {
+        text-align: center;
+    }
+}
+
+/* Teste */
+.teste {
+    background: linear-gradient(rgba(0, 0, 0, 0.5));
+    z-index: 1;
+}
+
+/* Footer */
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-top: 2px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.footer-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-right: 20px;
+}
+
+.footer-content h3 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.footer-content p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 14px;
+}
+
+.social-media {
+    margin-top: 10px;
+}
+
+.social-media p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+.social-icon {
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.social-icon img {
+    width: 30px;
+    height: 30px;
+}
+
+.social-icon:hover {
+    transform: scale(1.2);
+}
+
+.whatsapp-contact {
+    margin-top: 20px;
+}
+
+.whatsapp-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.whatsapp-button:hover {
+    background-color: #1ebe57;
+}
+
+.whatsapp-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+/* FAQ */
+.faq {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.faq h2 {
+    margin-bottom: 20px;
+    color: #087375;
+}
+.faq {
+    width: 1000%; /* Garante que a seção ocupe 100% da largura disponível */
+    max-width: 1200px; /* Limita a largura máxima para manter a estética */
+    margin: 0 auto; /* Centraliza a seção na tela */
+    padding: 30px; /* Espaçamento interno igual ao da seção de conteúdo */
+    background-color: #f9f9f9; /* Cor de fundo para destacar a seção */
+    border-radius: 8px; /* Bordas arredondadas */
+}
+
+/* Ajustar a altura e a formatação das perguntas e respostas */
+.accordion-button {
+    font-size: 1.1rem; /* Tamanho de fonte adequado */
+    padding: 15px; /* Mais espaço ao redor do texto */
+}
+
+.accordion-body {
+    font-size: 1rem; /* Tamanho da fonte para as respostas */
+    padding: 20px; /* Espaçamento interno */
+}
+
+.bd1{
+    background-image: url('IMG/Background.jpg');
+    background-repeat: repeat; /* Repete a imagem em ambas as direções */
+    background-size: auto; /* Tamanho original da imagem */
+}
+
